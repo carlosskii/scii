@@ -1,8 +1,4 @@
-# SCII
-
-<p align="center" style="font-weight: bold; font-size: 1.3em">
-SCII IS CURRENTLY IN VERY EARLY DEVELOPMENT. IT IS NOT USABLE IN ANY FORM.
-</p>
+### SCII IS CURRENTLY IN VERY EARLY DEVELOPMENT. IT IS NOT USABLE IN ANY FORM.
 
 Software Collaboration Is Innovative (SCII) is a distributed network of developers designed for collaboration and innovation. It is designed to be both lightweight and scalable, so projects of any size can utilize it. While self-hosting is highly encouraged, a public instance will also be available.
 
