@@ -1,3 +1,9 @@
+# JavaScript
 node_modules
+
+# Rust
+target
+
+# Secrets
 .env
 .env.*
