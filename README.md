@@ -13,4 +13,4 @@ Software Collaboration Is Innovative (SCII) is a distributed network of develope
 
 ## Contributing
 
-See the [contributing guidelines](CONTRIBUTING.md) for more information.
+See the [contributing guidelines](CONTRIBUTING.md) and [development docs](DEVELOPMENT.md) for more information.
