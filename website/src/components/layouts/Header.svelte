@@ -42,7 +42,7 @@
       Profile
     </a>
 
-    <a href="/project" class="
+    <a href="/editor" class="
       text-lg
       px-4 py-2
       rounded-lg
